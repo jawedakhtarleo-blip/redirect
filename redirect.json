@@ -1,1 +1,10 @@
 
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://client.wvd.microsoft.com/arm/webclient/index.html",
+      "statusCode": 301
+    }
+  ]
+}
